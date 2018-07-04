@@ -5,3 +5,5 @@ authors = ["mk-tool"]
 
 [dependencies]
 html5ever = "*"
+tendril = "*"
+clap = "*"
