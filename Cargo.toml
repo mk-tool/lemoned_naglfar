@@ -1,0 +1,6 @@
+[package]
+name = "lemoned_naglfar"
+version = "0.1.0"
+authors = ["mk-tool"]
+
+[dependencies]
